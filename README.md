@@ -17,3 +17,5 @@
   +Gymnasium
 
 +Hochschule Furtwangen
+![tolles Bild](/tmp/401920399_eba09a6057.jpg)
+~
