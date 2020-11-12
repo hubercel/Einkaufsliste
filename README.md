@@ -11,7 +11,7 @@
 
 ## Bildung
 
--Schule
-  -Grundschule
-  -Gymnasium
--Hochschule Furtwangen
+*Schule
+  *Grundschule
+  *Gymnasium
+*Hochschule Furtwangen
