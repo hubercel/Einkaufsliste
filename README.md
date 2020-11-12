@@ -17,5 +17,7 @@
   +Gymnasium
 
 +Hochschule Furtwangen
-![tolles Bild](/tmp/401920399_eba09a6057.jpg)
+
+
+![tolles Bild](https://static.nrwz.de/uploads/2018/02/Fasnetsdienstag__2018-02-13_63290_%C2%A9_A.Linsenmann.jpg)
 ~
